@@ -11,4 +11,4 @@ Antenna Report.docx contains all the antenna parameters, design choices, perform
 
 <img width="1168" height="685" alt="Screenshot 2026-09-03 220911" src="https://github.com/user-attachments/assets/eef61ac6-fdd1-4956-8e20-2264fb9bd41c" />
 
-power combiner.sch represents the schematic for the Wilkinson power combiner, and can be imported into QUCS Studio. The corresponding .dpl file represents the simulation output.
+power combiner.sch represents the schematic for the Wilkinson power combiner, and can be imported into QUCS Studio. The corresponding .dpl file represents the simulation output. You will need to download the Touchstone file patch_antenna.s4p in order to run the simulation.
